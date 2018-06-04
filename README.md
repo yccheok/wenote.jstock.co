@@ -1,2 +1,2 @@
 # wenote.jstock.co
-https://play.google.com/store/apps/details?id=com.yocto.noteplus
+https://play.google.com/store/apps/details?id=com.yocto.wenote
