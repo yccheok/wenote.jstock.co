@@ -26,22 +26,19 @@
   <li>Feedback form - When you tick on "Reply me", we will ask your permission to gain access to email address. Once we receive your feedback, we can respond to your feedback via email reply.</li>
 </ul></p>
 
-<p>The app does use third party services that may collect information used to identify you, like Google 
-    Analytics and Google Analytics for Firebase.</p>
-
 <p id="cloud-storage"><strong>Cloud Storage</strong></p>
 <p>We provide an option to store all your notes in Google Drive app data folder.</p>
-<p>On December 06, 2018, Google announced that support for storing and syncing in the app data folder 
-    will likely be removed from Drive in the future - <a href="https://developers.google.com/drive/android/deprecation">https://developers.google.com/drive/android/deprecation</a>. 
-    In order to ensure you can continue access your cloud data after Google Drive app data folder is 
-    discontinued, we will store your notes in WeNote secure server 
-    (<a href="https://wenote-cloud-storage.jstock.co:2083/upload_file">https://wenote-cloud-storage.jstock.co:2083/upload_file</a>) 
-    as an alternative cloud storage. We have taken all steps reasonably necessary to ensure that your 
-    data and privacy are protected.</p>
+<p>In order to achieve Multi sync (auto sync to multiple devices with same account) capability, we store the following information in our server.</p>
+   <ul>
+      <li>Google Sign-in ID token.</li>
+      <li>Firebase registration token.</li>
+      <li>Email address.</li>
+   </ul> 
+<p>We solely use your email address for account verification purpose. We will never use your email address for marketing purpose. We will never distribute your email address to 3rd parties.</p>
+<p>We have taken all steps reasonably necessary to ensure that your data and privacy are protected.</p>
    <ul>
       <li>Using SSL for client and server communications.</li>
       <li>Using Google Sign-In to perform authentication.</li>
-      <li>We do NOT store your email address.</li>
       <li>Cloud service is provided by Digital Ocean, a renowned cloud infrastructure provider headquartered in New York City.</li>
    </ul> 
 	
