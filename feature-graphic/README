@@ -1,6 +1,8 @@
 Goal
 ====
-Design various feature graphics (https://support.google.com/googleplay/android-developer/answer/9866151?hl=en) to promote product https://play.google.com/store/apps/details?id=com.yocto.wenote
+Design various feature graphics to promote product https://play.google.com/store/apps/details?id=com.yocto.wenote
+
+Please read through https://support.google.com/googleplay/android-developer/answer/9866151?hl=en to understand the best practice of a good feature graphics.
 
 We will use A/B testing to determine the single most optimal feature graphic.
 
