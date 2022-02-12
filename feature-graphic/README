@@ -1,0 +1,53 @@
+Have the following design elements
+==================================
+
+(1) Product Name
+
+"WeNote" (English)
+
+"微筆記" (Traditional Chinese)
+
+(2) Product Icon
+
+https://github.com/yccheok/wenote.jstock.co/blob/master/if_note_1296370.svg
+
+(3) Icons to represent product features. Preferable to show them in sticky note form 
+
+Example: https://raw.githubusercontent.com/yccheok/wenote.jstock.co/master/feature-graphic/sample0.png
+
+The sticky notes shall be using the following background-color
+
+#e53935 (red)
+#fdd835 (yellow)
+#5481e6 (blue)
+#7cb342 (green)
+
+Please use the following 4 icons
+
+Note - https://fonts.google.com/icons?selected=Material%20Icons%3Acalendar_month%3A
+or https://fonts.google.com/icons?selected=Material%20Icons%3Adescription%3A or https://fonts.google.com/icons?selected=Material%20Icons%3Amenu%3A
+
+Todo - https://fonts.google.com/icons?selected=Material+Icons:check:
+
+Calendar - https://fonts.google.com/icons?selected=Material%20Icons%3Acalendar_month%3A
+
+Reminder - https://fonts.google.com/icons?selected=Material%20Icons%3Acalendar_month%3A
+
+(4) Phone wireframe with screenshot. The phone wireframe should be minimalist. Try to test out with black/ white phone.
+
+English - https://raw.githubusercontent.com/yccheok/wenote.jstock.co/master/feature-graphic/english.png
+
+Traditional Chinese - https://raw.githubusercontent.com/yccheok/wenote.jstock.co/master/feature-graphic/traditional%20chinese.png
+
+Expectation
+===========
+My goal is to have a good-looking feature graphic. However, being able to convert well is way more important than being good-looking. Please kindly produce the following feature graphic variations, so that we can decide an optimal winner by using A/B testing.
+
+1) With phone wireframe
+2) Without phone wireframe
+3) With rotated phone wireframe - https://raw.githubusercontent.com/yccheok/wenote.jstock.co/master/feature-graphic/sample1.png
+4) Perhaps test black/ white phone?
+5) Perhaps test with various background creative?
+
+We will run the A/B testing in English (United States) Play store, and Traditional Chinese (Taiwan) Play store.
+
