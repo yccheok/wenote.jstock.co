@@ -1,3 +1,11 @@
+Goal
+====
+Design various feature graphic (https://support.google.com/googleplay/android-developer/answer/9866151?hl=en) to promote product https://play.google.com/store/apps/details?id=com.yocto.wenote
+
+We will use A/B testing to determine the most optimal feature graphic.
+
+The final feature graphic need to have better convertsion rate than current feature graphic - https://raw.githubusercontent.com/yccheok/wenote.jstock.co/master/feature-graphic/current.png
+
 Have the following design elements
 ==================================
 
@@ -48,6 +56,7 @@ My goal is to have a good-looking feature graphic. However, being able to conver
 3) With rotated phone wireframe - https://raw.githubusercontent.com/yccheok/wenote.jstock.co/master/feature-graphic/sample1.png
 4) Perhaps test black/ white phone?
 5) Perhaps test with various background creative?
+6) ... (Any variations you feel will standout as A/B testing winner)
 
 We will run the A/B testing in English (United States) Play store, and Traditional Chinese (Taiwan) Play store.
 
