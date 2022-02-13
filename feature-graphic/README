@@ -4,7 +4,7 @@ Design various feature graphics to promote product https://play.google.com/store
 
 Please read through https://support.google.com/googleplay/android-developer/answer/9866151?hl=en to understand the best practice of a good feature graphics.
 
-We will use A/B testing to determine the single most optimal feature graphic.
+We will use A/B testing to determine the single most optimal feature graphic for English play store, and single most optimal feature graphic for Traditional Chinese play store.
 
 The final feature graphic needs to have a better conversion rate than the current feature graphic - https://raw.githubusercontent.com/yccheok/wenote.jstock.co/master/feature-graphic/current.png
 
