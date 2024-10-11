@@ -1,0 +1,49 @@
+How to resolve "Fix to prevent your app from being removed (5 days away)" due to "Subscriptions policy: Violation of Subscriptions policy"
+
+On October 9, 2024, I received an email with the following details:
+
+    Apps with subscriptions services or content need a clear UI/UX to ensure that users can easily find and choose the option they want. For example, if you sell subscriptions in your app(s), you must ensure that your app(s) clearly disclose how a user can manage or cancel their subscription. You must also include in your app access to an easy-to-use, online method to cancel the subscription.
+
+    During our review, we found your app doesn’t comply with the Subscriptions policy in the following way:
+
+        Your app has multiple screens in the purchase flow that lead users into accidentally clicking the subscribe button.
+
+An attachment is included: 
+
+https://github.com/yccheok/wenote.jstock.co/blob/master/review/Oct%209%2C%202024.png
+
+What I did is:
+
+1. Fixed accordingly by relocating the subscription button position: https://github.com/yccheok/wenote.jstock.co/blob/master/review/Oct%2010%2C%202024.png
+
+2. Submitted an appeal: https://github.com/yccheok/wenote.jstock.co/blob/master/review/Appeal%20submitted.png (Ticket number : 7-6844000037346)
+
+On October 10, 2024, I received the appeal outcome:
+
+    Thanks for contacting the Google Play team.
+
+    Issue: Google Play Policy Violation
+
+    We’ve reviewed your appeal request and found that your app WeNote: Notes Notepad Notebook (com.yocto.wenote) is currently in violation of Google Play policy. Please resolve this issue within October 16, 2024 or your app will be removed from Google Play.
+
+    Step 1: Fix the policy violation with your app
+
+    During review, we found that your app violates the Subscriptions policy.
+
+    Issue with your app:
+
+        Your app has multiple screens in the purchase flow that lead users into accidentally clicking the "subscribe" button.
+
+A screenshot sent by Google is attached: https://github.com/yccheok/wenote.jstock.co/blob/master/review/Oct%2010%2C%202024.png
+
+My thought is that the reviewer probably thinks the subscription button is still not far enough from the previous continue button.
+
+I made another adjustment: https://github.com/yccheok/wenote.jstock.co/blob/master/review/Oct%2011%2C%202024.png
+
+I also replied to the appeal email, stating I have made a new release. So far, there is no reply received yet.
+
+The release was approved. However, the privacy warning message is still there: https://github.com/yccheok/wenote.jstock.co/blob/master/review/Privacy%20warning%20message.png
+
+Since the deadline is only 5 days away, I am very worried about this. Can you advise how I can get in touch with Google to resolve this?
+
+Thanks.
